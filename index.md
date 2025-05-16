@@ -2,7 +2,7 @@
 
 **Monday, 2 June 2025**
 
-**Auditori Merce Rodoreda**<br>
+**Auditori Mercè Rodoreda**<br>
 **Ciutadella Campus**<br>
 **Universitat Pompeu Fabra**
  
