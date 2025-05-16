@@ -1,4 +1,4 @@
-**Book Talks by Yasmine Khayyat & Nikolas Kosmatopoulos**
+**Authors Yasmine Khayyat (War Remains) and Nikolas Kosmatopoulos (Master Peace) will present and discuss their books**
 
 **Monday, 2 June 2025**
 
