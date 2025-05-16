@@ -2,4 +2,4 @@ remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme 
 title: Twin Book Talks 
-description: War Remains: Ruination and Resistance in South Lebanon | Master Peace: The continuation of war by other means in Lebanon
+description: "War Remains: Ruination and Resistance in South Lebanon | Master Peace: The continuation of war by other means in Lebanon"
