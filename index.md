@@ -1,6 +1,6 @@
 **Authors Yasmine Khayyat (War Remains) and Nikolas Kosmatopoulos (Master Peace) will present and discuss their books**
 
-**Monday, 2 June 2025**
+**Monday, 2 June 2025, 16:00 - 18:00**
 
 **Auditori Mercè Rodoreda**<br>
 **Ciutadella Campus**<br>
